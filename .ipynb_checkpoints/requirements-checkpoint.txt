@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-streamlit
-pandas
-numpy
-pytest
-python-dotenv
