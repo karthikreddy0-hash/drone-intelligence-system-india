@@ -5,3 +5,4 @@ pandas
 numpy
 pytest
 python-multipart
+httpx
