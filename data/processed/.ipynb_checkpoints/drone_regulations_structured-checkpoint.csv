@@ -1,0 +1,6 @@
+category,weight_limit,registration_required,pilot_license_required,allowed_zones,penality_for_violation,approval_required
+Nano,<250g,No,No,Green  Zone,Warning or Minor Fine,No
+Micro,250g-2kg,Yes,Conditional,Green /Yellow Zone,Fine upto 100000 INR,Digital Sky Permission
+Small,2kg-25kg,Yes,Yes,Green/Yellow Zone,Fine+ License Suspension,Yes
+Medium,25kg-150kg,Yes,Yes,Restricted Zones,Fine+Legal Action,Yes
+Large,>150kg,Yes,Yes,Special permission zones,Severe Legal Action,Yes

@@ -1,0 +1,11 @@
+model_name,copany,category,price_inr,flight_time_minutes,payload_kg,range_km,battery_capacity_mah,use_case
+Kisan Drone X1,Garuda Aerospace,small,500000,40,10,5,8000,Agriculture
+Switch UAV ,ideaForge,small,1500000,120,2,15,12000,Surveillance
+Asteria AT-15,Asteria Aerospace,small,900000,90,3,12,10000,Inspection
+Dhaksha Agripro,Dhaksha Unamanned Systems,small,650000,45,8,6,8500,Agriculture
+Skylark Surveyor,Skylark Drones,Micro,400000,35,2,8,6000,Mapping
+Marut  AG365,Marut Drones,small,550000,50,12,7,9000,Agriculture
+Throttle Hawk ,Throttle Aerospace,Micro,300000,30,1.5,5,5000,Training
+TechEagle Delivery X,TechEagle,small,800000,60,5,10,9500,Logistics
+Paras Defense UAV ,Paras Defence,small,2000000,150,4,20,15000,Defense
+IoTech SkyScan,IoTechWorld,Micro,350000,25,1,4,4500,Surveillance

@@ -1,0 +1,7 @@
+use_case,drone_cost,annual_operational_cost,annual_revenue,maintence_cost,"expected_roi_percent,",break_even_years
+agriculture spraying,600000,150000,400000,50000,35,2
+medical delivery,800000,200000,700000,45000,45,1.8
+infrastructure inspection,900000,900000,700000,80000,50,1.5
+survey,500000,120000,300000,30,30,2.2
+diasater purpose,750000,180000,500000,60000,40,1.9
+mining survey,350000,650000,750000,4200,42,1.7

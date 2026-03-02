@@ -1,0 +1,201 @@
+use_case,region,project_scale,manpower_required,drones_required,expected_revenue,operational_cost,estimated_profit,market_growth_percent,revenue_scale,profit_margin_percent
+Defense,Delhi,Small,32,1,2171326,1151498,1019828,17.57,Mid-Level,46.97
+Mining,Maharashtra,Small,47,10,2485212,1937581,547631,14.48,Mid-Level,22.04
+Medical,Delhi,Medium,50,17,4268588,1406827,2861761,21.97,Enterprise,67.04
+Disaster,Telangana,Large,33,14,3367972,1188913,2179059,24.32,Enterprise,64.7
+Disaster,Delhi,Medium,6,4,2968041,1659074,1308967,12.45,Mid-Level,44.1
+Agriculture,Delhi,Large,10,13,1825962,1159624,666338,11.34,Mid-Level,36.49
+Mining,Telangana,Medium,32,3,1094359,330916,763443,9.44,Startup,69.76
+Disaster,Telangana,Small,47,6,3187930,1000734,2187196,18.0,Enterprise,68.61
+Medical,Telangana,Large,7,18,2186418,711469,1474949,8.65,Mid-Level,67.46
+Mining,Tamil Nadu,Medium,24,18,1183124,275440,907684,9.73,Startup,76.72
+Defense,Delhi,Large,28,5,4111385,631350,3480035,21.58,Enterprise,84.64
+Mining,Maharashtra,Large,40,8,3806884,227104,3579780,13.42,Enterprise,94.03
+Medical,Maharashtra,Large,47,16,2833145,1382774,1450371,23.76,Mid-Level,51.19
+Agriculture,Karnataka,Small,31,9,3295330,559983,2735347,15.4,Enterprise,83.01
+Disaster,Tamil Nadu,Small,20,10,1058383,324487,733896,20.04,Startup,69.34
+Medical,Maharashtra,Small,30,14,3062173,1611964,1450209,10.93,Enterprise,47.36
+Disaster,Maharashtra,Large,44,3,3480723,1579493,1901230,20.6,Enterprise,54.62
+Defense,Telangana,Small,50,1,510672,206438,304234,22.01,Startup,59.58
+Disaster,Delhi,Medium,6,17,901292,1824026,-922734,7.55,Startup,-102.38
+Medical,Maharashtra,Medium,5,2,3679288,714334,2964954,17.77,Enterprise,80.58
+Disaster,Telangana,Small,22,18,2235948,1243999,991949,21.9,Mid-Level,44.36
+Medical,Maharashtra,Small,5,13,3614202,521019,3093183,22.85,Enterprise,85.58
+Medical,Tamil Nadu,Large,42,5,4330837,1978116,2352721,12.62,Enterprise,54.32
+Medical,Maharashtra,Large,41,6,3038674,629495,2409179,9.0,Enterprise,79.28
+Disaster,Delhi,Large,44,12,4860698,1261628,3599070,23.88,Enterprise,74.04
+Agriculture,Delhi,Small,23,20,1115336,761755,353581,7.76,Startup,31.7
+Disaster,Delhi,Small,34,7,2032898,1703858,329040,11.73,Mid-Level,16.19
+Disaster,Maharashtra,Medium,37,14,1136946,1512527,-375581,13.1,Startup,-33.03
+Medical,Maharashtra,Large,47,17,2241704,1259361,982343,16.21,Mid-Level,43.82
+Agriculture,Delhi,Medium,33,16,2701491,535875,2165616,14.72,Mid-Level,80.16
+Mining,Karnataka,Large,27,14,821872,998278,-176406,17.69,Startup,-21.46
+Medical,Maharashtra,Medium,34,11,1746825,1659801,87024,23.25,Mid-Level,4.98
+Medical,Telangana,Large,20,9,671787,1849048,-1177261,21.21,Startup,-175.24
+Mining,Tamil Nadu,Medium,25,18,1047359,484317,563042,17.69,Startup,53.76
+Mining,Delhi,Small,25,20,4399468,363117,4036351,6.62,Enterprise,91.75
+Defense,Karnataka,Medium,14,1,549603,942128,-392525,7.68,Startup,-71.42
+Defense,Maharashtra,Medium,35,7,4125212,1291762,2833450,17.48,Enterprise,68.69
+Mining,Telangana,Large,41,7,789757,678056,111701,19.01,Startup,14.14
+Medical,Telangana,Large,18,19,4835148,923596,3911552,13.6,Enterprise,80.9
+Agriculture,Telangana,Small,31,4,3546453,801411,2745042,24.89,Enterprise,77.4
+Disaster,Delhi,Medium,15,15,1093324,1231671,-138347,16.46,Startup,-12.65
+Medical,Tamil Nadu,Medium,25,13,3948381,239527,3708854,24.92,Enterprise,93.93
+Defense,Karnataka,Medium,6,15,2757695,1898751,858944,20.48,Mid-Level,31.15
+Disaster,Telangana,Medium,49,3,3094867,865410,2229457,12.99,Enterprise,72.04
+Defense,Karnataka,Large,13,10,984329,1159270,-174941,13.97,Startup,-17.77
+Disaster,Delhi,Small,34,14,3774640,514074,3260566,18.24,Enterprise,86.38
+Medical,Karnataka,Small,42,7,1587540,419708,1167832,22.06,Mid-Level,73.56
+Agriculture,Karnataka,Small,46,6,1203027,543679,659348,13.85,Startup,54.81
+Medical,Tamil Nadu,Medium,44,6,2418425,1191777,1226648,20.03,Mid-Level,50.72
+Disaster,Tamil Nadu,Large,5,1,3824507,276284,3548223,24.62,Enterprise,92.78
+Defense,Karnataka,Medium,24,10,3976851,386126,3590725,18.38,Enterprise,90.29
+Defense,Maharashtra,Small,20,9,1542904,758994,783910,11.14,Mid-Level,50.81
+Agriculture,Delhi,Large,7,13,706626,1229408,-522782,5.17,Startup,-73.98
+Mining,Tamil Nadu,Small,5,9,1750008,1996032,-246024,17.8,Mid-Level,-14.06
+Defense,Tamil Nadu,Small,9,10,3302066,528538,2773528,20.17,Enterprise,83.99
+Medical,Karnataka,Small,37,4,4390415,1098588,3291827,20.73,Enterprise,74.98
+Disaster,Telangana,Small,10,15,2297988,1442135,855853,7.94,Mid-Level,37.24
+Agriculture,Maharashtra,Small,43,3,1669140,521248,1147892,10.27,Mid-Level,68.77
+Medical,Karnataka,Medium,29,11,4751709,1514218,3237491,5.17,Enterprise,68.13
+Medical,Telangana,Small,21,9,4778718,1278024,3500694,21.56,Enterprise,73.26
+Mining,Delhi,Medium,41,15,1576552,916094,660458,6.22,Mid-Level,41.89
+Medical,Maharashtra,Large,7,16,4754469,857330,3897139,15.82,Enterprise,81.97
+Mining,Telangana,Large,29,9,2413089,1105366,1307723,7.26,Mid-Level,54.19
+Agriculture,Delhi,Small,12,3,3113509,1012018,2101491,17.84,Enterprise,67.5
+Defense,Telangana,Small,43,9,2861517,795979,2065538,11.14,Mid-Level,72.18
+Medical,Delhi,Small,25,11,1369869,1483334,-113465,14.35,Startup,-8.28
+Medical,Karnataka,Medium,9,9,4453250,545674,3907576,15.98,Enterprise,87.75
+Medical,Telangana,Large,44,11,2069152,956931,1112221,10.84,Mid-Level,53.75
+Mining,Tamil Nadu,Medium,11,1,4741848,1326475,3415373,19.53,Enterprise,72.03
+Disaster,Delhi,Small,48,19,557564,1887048,-1329484,21.05,Startup,-238.45
+Disaster,Karnataka,Large,8,5,4361134,621798,3739336,24.7,Enterprise,85.74
+Mining,Tamil Nadu,Medium,9,3,1324738,612005,712733,9.62,Startup,53.8
+Mining,Karnataka,Small,14,17,1248796,274698,974098,7.66,Startup,78.0
+Mining,Delhi,Small,9,12,2209677,1424844,784833,10.12,Mid-Level,35.52
+Defense,Tamil Nadu,Medium,49,9,3292154,1417777,1874377,5.95,Enterprise,56.93
+Medical,Maharashtra,Small,42,6,1776575,1367144,409431,21.63,Mid-Level,23.05
+Medical,Tamil Nadu,Medium,25,12,929390,1935901,-1006511,23.74,Startup,-108.3
+Mining,Karnataka,Large,38,4,4075095,242913,3832182,10.09,Enterprise,94.04
+Medical,Delhi,Large,16,16,3024884,291944,2732940,24.06,Enterprise,90.35
+Agriculture,Tamil Nadu,Small,12,10,1636035,1259172,376863,10.92,Mid-Level,23.04
+Disaster,Karnataka,Medium,10,14,933405,1242303,-308898,18.03,Startup,-33.09
+Disaster,Maharashtra,Small,33,3,4355212,699729,3655483,6.13,Enterprise,83.93
+Mining,Karnataka,Large,35,17,1447871,1499170,-51299,18.49,Startup,-3.54
+Disaster,Telangana,Large,9,14,1760870,1643069,117801,14.8,Mid-Level,6.69
+Agriculture,Maharashtra,Small,22,9,2556414,1889957,666457,11.32,Mid-Level,26.07
+Medical,Delhi,Small,23,19,3372728,1702890,1669838,7.5,Enterprise,49.51
+Defense,Karnataka,Medium,8,10,3486502,1924632,1561870,14.99,Enterprise,44.8
+Defense,Telangana,Large,26,16,3020245,1312442,1707803,15.31,Enterprise,56.55
+Disaster,Delhi,Large,6,15,1554513,1239270,315243,14.21,Mid-Level,20.28
+Disaster,Delhi,Large,33,6,1803918,294498,1509420,19.3,Mid-Level,83.67
+Agriculture,Delhi,Medium,7,9,2939128,1420294,1518834,17.51,Mid-Level,51.68
+Disaster,Karnataka,Medium,21,3,1711681,527319,1184362,20.41,Mid-Level,69.19
+Mining,Delhi,Small,32,15,3250289,1514754,1735535,22.29,Enterprise,53.4
+Agriculture,Tamil Nadu,Small,13,9,4028483,1747163,2281320,6.36,Enterprise,56.63
+Defense,Tamil Nadu,Small,21,12,4049651,305325,3744326,22.77,Enterprise,92.46
+Disaster,Tamil Nadu,Large,8,14,2714734,1169604,1545130,5.65,Mid-Level,56.92
+Medical,Karnataka,Medium,5,6,3317610,1282482,2035128,17.18,Enterprise,61.34
+Agriculture,Karnataka,Large,30,18,4591069,1017410,3573659,12.2,Enterprise,77.84
+Disaster,Delhi,Medium,38,20,1286605,292698,993907,6.34,Startup,77.25
+Defense,Maharashtra,Small,40,5,1433952,1957933,-523981,19.81,Startup,-36.54
+Defense,Maharashtra,Small,25,14,4733672,1996526,2737146,5.36,Enterprise,57.82
+Disaster,Tamil Nadu,Small,31,18,3193150,1495015,1698135,20.1,Enterprise,53.18
+Defense,Delhi,Large,41,12,4800508,792474,4008034,18.58,Enterprise,83.49
+Medical,Telangana,Small,15,15,3125347,1604175,1521172,16.87,Enterprise,48.67
+Medical,Karnataka,Medium,41,16,3644211,632789,3011422,19.49,Enterprise,82.64
+Disaster,Karnataka,Large,6,5,2543961,1676992,866969,18.06,Mid-Level,34.08
+Disaster,Karnataka,Medium,41,13,4539775,805409,3734366,9.4,Enterprise,82.26
+Agriculture,Maharashtra,Medium,11,6,4150905,560260,3590645,19.51,Enterprise,86.5
+Disaster,Telangana,Small,14,5,4566020,324029,4241991,7.28,Enterprise,92.9
+Disaster,Telangana,Large,22,2,1912260,1797999,114261,20.78,Mid-Level,5.98
+Mining,Tamil Nadu,Large,7,3,4880469,344921,4535548,5.49,Enterprise,92.93
+Defense,Karnataka,Medium,16,18,2842135,1362652,1479483,15.38,Mid-Level,52.06
+Medical,Maharashtra,Medium,6,12,2164293,1132769,1031524,9.31,Mid-Level,47.66
+Mining,Telangana,Medium,36,16,4507818,1947176,2560642,7.38,Enterprise,56.8
+Disaster,Maharashtra,Small,11,15,2157289,605867,1551422,10.75,Mid-Level,71.92
+Disaster,Telangana,Small,23,8,3630546,1139149,2491397,22.73,Enterprise,68.62
+Disaster,Telangana,Medium,44,18,4108292,1314312,2793980,23.02,Enterprise,68.01
+Medical,Karnataka,Large,19,20,3022797,1033714,1989083,14.75,Enterprise,65.8
+Medical,Delhi,Small,48,4,4248516,1764299,2484217,11.64,Enterprise,58.47
+Defense,Delhi,Medium,28,15,2604901,631498,1973403,11.31,Mid-Level,75.76
+Medical,Tamil Nadu,Large,16,12,3627970,422872,3205098,5.64,Enterprise,88.34
+Mining,Maharashtra,Large,17,1,2296000,1305120,990880,10.94,Mid-Level,43.16
+Agriculture,Delhi,Medium,13,7,2703012,578590,2124422,16.66,Mid-Level,78.59
+Defense,Tamil Nadu,Medium,23,8,2633211,1151676,1481535,8.05,Mid-Level,56.26
+Agriculture,Tamil Nadu,Large,43,3,793424,1181782,-388358,22.61,Startup,-48.95
+Defense,Karnataka,Small,25,19,2677402,599343,2078059,8.76,Mid-Level,77.61
+Defense,Maharashtra,Small,28,5,911607,1197915,-286308,14.9,Startup,-31.41
+Defense,Maharashtra,Medium,39,3,1455916,203495,1252421,14.5,Startup,86.02
+Agriculture,Telangana,Medium,46,20,1984679,1206537,778142,15.21,Mid-Level,39.21
+Agriculture,Delhi,Large,20,13,1882565,466029,1416536,23.8,Mid-Level,75.24
+Medical,Telangana,Medium,27,10,2226187,1057461,1168726,12.46,Mid-Level,52.5
+Agriculture,Karnataka,Medium,15,9,2742659,793295,1949364,13.79,Mid-Level,71.08
+Mining,Delhi,Medium,49,17,4441505,1330570,3110935,12.91,Enterprise,70.04
+Disaster,Maharashtra,Large,36,8,3305766,1063624,2242142,9.21,Enterprise,67.83
+Agriculture,Delhi,Small,7,9,1596307,811161,785146,6.16,Mid-Level,49.19
+Medical,Delhi,Medium,48,16,1678189,380167,1298022,22.62,Mid-Level,77.35
+Disaster,Karnataka,Medium,34,11,3570984,910220,2660764,24.61,Enterprise,74.51
+Agriculture,Telangana,Small,40,16,1642453,225610,1416843,9.65,Mid-Level,86.26
+Disaster,Delhi,Large,47,10,1124811,1001557,123254,16.65,Startup,10.96
+Disaster,Maharashtra,Large,50,2,3205207,1975147,1230060,9.05,Enterprise,38.38
+Agriculture,Delhi,Medium,28,6,1555100,762897,792203,22.46,Mid-Level,50.94
+Medical,Maharashtra,Large,18,20,4754371,786291,3968080,16.57,Enterprise,83.46
+Defense,Karnataka,Large,9,8,2068794,849864,1218930,21.91,Mid-Level,58.92
+Disaster,Delhi,Small,13,2,3498308,1839894,1658414,14.41,Enterprise,47.41
+Agriculture,Maharashtra,Large,22,17,3926133,968768,2957365,19.49,Enterprise,75.33
+Defense,Tamil Nadu,Small,31,18,3159115,1832674,1326441,6.65,Enterprise,41.99
+Defense,Delhi,Small,44,7,3013236,1105451,1907785,10.13,Enterprise,63.31
+Agriculture,Telangana,Large,35,1,4235542,374938,3860604,11.13,Enterprise,91.15
+Medical,Maharashtra,Medium,19,13,2113665,1261772,851893,17.25,Mid-Level,40.3
+Agriculture,Tamil Nadu,Large,7,18,4663702,1788983,2874719,7.71,Enterprise,61.64
+Medical,Delhi,Medium,25,10,1493889,1084034,409855,16.28,Startup,27.44
+Disaster,Telangana,Large,43,2,3838905,1698352,2140553,17.39,Enterprise,55.76
+Disaster,Telangana,Medium,28,5,4694764,990589,3704175,16.43,Enterprise,78.9
+Medical,Karnataka,Large,14,1,1339093,1890321,-551228,9.42,Startup,-41.16
+Defense,Telangana,Large,44,20,2903794,1799556,1104238,11.76,Mid-Level,38.03
+Mining,Delhi,Small,38,15,3643646,927757,2715889,7.54,Enterprise,74.54
+Agriculture,Delhi,Medium,41,10,4372443,625170,3747273,8.21,Enterprise,85.7
+Agriculture,Tamil Nadu,Medium,42,18,3700544,1746406,1954138,24.72,Enterprise,52.81
+Agriculture,Maharashtra,Medium,29,10,2839994,386587,2453407,12.0,Mid-Level,86.39
+Agriculture,Telangana,Large,13,18,3798121,536193,3261928,13.52,Enterprise,85.88
+Agriculture,Karnataka,Medium,49,12,1962333,204486,1757847,14.77,Mid-Level,89.58
+Mining,Maharashtra,Medium,38,20,781098,1045112,-264014,16.31,Startup,-33.8
+Medical,Karnataka,Large,20,20,2198764,1853645,345119,16.36,Mid-Level,15.7
+Disaster,Telangana,Medium,16,18,1052297,675744,376553,12.5,Startup,35.78
+Agriculture,Tamil Nadu,Small,9,1,3665336,532152,3133184,23.66,Enterprise,85.48
+Disaster,Delhi,Medium,40,7,1911013,1713872,197141,8.53,Mid-Level,10.32
+Disaster,Telangana,Large,47,9,733189,1445377,-712188,5.32,Startup,-97.14
+Disaster,Karnataka,Small,32,17,4328212,1190743,3137469,18.65,Enterprise,72.49
+Mining,Delhi,Medium,24,4,1667957,1863295,-195338,14.08,Mid-Level,-11.71
+Defense,Delhi,Large,14,20,3114388,1446481,1667907,14.63,Enterprise,53.55
+Disaster,Karnataka,Small,49,11,4750047,1462037,3288010,5.39,Enterprise,69.22
+Agriculture,Telangana,Small,50,19,1218505,1519239,-300734,7.86,Startup,-24.68
+Agriculture,Maharashtra,Medium,19,7,2928260,831063,2097197,18.23,Mid-Level,71.62
+Disaster,Tamil Nadu,Medium,40,20,2211622,1738845,472777,24.49,Mid-Level,21.38
+Medical,Delhi,Small,28,4,1940798,1299256,641542,20.66,Mid-Level,33.06
+Mining,Telangana,Large,31,7,3528709,768756,2759953,24.0,Enterprise,78.21
+Disaster,Telangana,Large,30,18,4717264,957254,3760010,20.91,Enterprise,79.71
+Medical,Tamil Nadu,Medium,28,3,1143072,964184,178888,6.74,Startup,15.65
+Defense,Maharashtra,Small,50,16,1987523,1717246,270277,14.51,Mid-Level,13.6
+Medical,Karnataka,Large,10,18,1347874,1741041,-393167,9.12,Startup,-29.17
+Agriculture,Tamil Nadu,Large,34,3,2841666,1848018,993648,15.31,Mid-Level,34.97
+Medical,Karnataka,Medium,39,11,3436680,1814234,1622446,24.27,Enterprise,47.21
+Agriculture,Telangana,Large,40,20,4342074,771082,3570992,21.35,Enterprise,82.24
+Medical,Maharashtra,Small,17,18,2282884,587064,1695820,5.92,Mid-Level,74.28
+Mining,Delhi,Large,18,18,3064167,1952314,1111853,6.4,Enterprise,36.29
+Medical,Karnataka,Large,46,3,1349010,997625,351385,22.09,Startup,26.05
+Agriculture,Delhi,Medium,29,19,4793759,1618682,3175077,18.62,Enterprise,66.23
+Mining,Delhi,Small,17,13,898945,1636185,-737240,19.98,Startup,-82.01
+Mining,Maharashtra,Medium,46,15,2162082,933761,1228321,19.41,Mid-Level,56.81
+Disaster,Telangana,Medium,18,8,1192614,1309398,-116784,14.16,Startup,-9.79
+Mining,Tamil Nadu,Large,30,9,1926969,1407414,519555,16.55,Mid-Level,26.96
+Agriculture,Tamil Nadu,Medium,17,10,4703791,1309190,3394601,18.85,Enterprise,72.17
+Medical,Maharashtra,Medium,24,13,1992064,1375430,616634,20.92,Mid-Level,30.95
+Disaster,Tamil Nadu,Large,44,19,4932513,683215,4249298,15.1,Enterprise,86.15
+Disaster,Delhi,Large,10,16,3697639,687011,3010628,19.88,Enterprise,81.42
+Mining,Tamil Nadu,Large,22,6,3249943,1056028,2193915,19.0,Enterprise,67.51
+Defense,Telangana,Small,34,13,4089743,1519541,2570202,22.7,Enterprise,62.85
+Mining,Delhi,Medium,33,15,1126574,1212344,-85770,5.89,Startup,-7.61
+Defense,Karnataka,Medium,50,8,4477763,675337,3802426,10.49,Enterprise,84.92
+Disaster,Telangana,Large,33,20,2914677,1439874,1474803,23.22,Mid-Level,50.6

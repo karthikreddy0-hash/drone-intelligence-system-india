@@ -1,0 +1,27 @@
+services:
+
+  backend:
+    build: .
+    container_name: drone_backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: always
+
+  frontend:
+    image: python:3.10-slim
+    container_name: drone_frontend
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    command: >
+      sh -c "pip install --no-cache-dir -r frontend/requirements.txt &&
+             streamlit run frontend/dashboard.py --server.port 8501 --server.address 0.0.0.0"
+    depends_on:
+      - backend
+    restart: always
