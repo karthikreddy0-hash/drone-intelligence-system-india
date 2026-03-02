@@ -3,7 +3,7 @@
 import requests
 import json
 
-API_KEY = "AIzaSyC_YmP3smtHzW4Ub7UBQDo8JTMjSa_iiqw"
+API_KEY = "GOOGLE_API_KEY _USE"
 
 def generate_with_gemini(prompt):
     
